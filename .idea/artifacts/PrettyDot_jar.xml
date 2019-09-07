@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PrettyDot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PrettyDot_jar</output-path>
+    <root id="archive" name="PrettyDot.jar">
+      <element id="module-output" name="PrettyDot" />
+    </root>
+  </artifact>
+</component>
